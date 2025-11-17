@@ -42,7 +42,7 @@ Copy the token from your terminal/logs.
 The token is unique to your device.
 
 ### Step 2: Go to Firebase Console
-Open your Firebase project: https://console.firebase.google.com/
+Open your Firebase project: https://console.firebase.google.com/.
 Navigate to Cloud Messaging → Send your first message.
 
 ### Step 3: Compose the notification
